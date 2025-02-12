@@ -1,0 +1,5 @@
+# Ignore all CSV files
+*.csv
+
+# Optional: If you want to allow specific CSV files, use ! to whitelist them
+# !important-data.csv
