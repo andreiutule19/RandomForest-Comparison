@@ -1,9 +1,9 @@
-# Wine Quality and Forest Cover Classification
+# RandomForest-Comparison
 
 ## Project Overview
 This project implements Random Forest classification models to analyze two distinct datasets:
-1. A smaller wine quality dataset (~1,000 samples, <100 features)
-2. A larger forest cover type dataset (>100,000 samples, 1000+ features)
+1. A smaller wine quality dataset (~1,000 samples, few features)
+2. A larger forest cover type dataset (>100,000 samples, 50+ features)
 
 ## Datasets
 
