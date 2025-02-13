@@ -102,3 +102,9 @@ The project includes comprehensive evaluation using:
 - Class-wise prediction analysis
 - Out-of-Bag (OOB) scores
 - Feature importance rankings
+
+## DATASETS 
+    1. COVER TYPE : https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
+    2. WINE-QUALITY: https://www.kaggle.com/code/mhassansaboor/wine-quality-analysis-plotly
+
+## FOR MORE DETAILS CHECK DOC.pdf and Presentation.pptx
